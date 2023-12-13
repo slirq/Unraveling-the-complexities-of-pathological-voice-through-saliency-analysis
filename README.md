@@ -8,10 +8,11 @@
 8. ![1-s2 0-S0010482523010314-main_page-0008](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/b7058162-558c-4147-ac8d-d84c78b71ab5)
 9. ![1-s2 0-S0010482523010314-main_page-0009](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/578c3570-8dd7-4c26-b593-ebe142111e54)
 10. ![1-s2 0-S0010482523010314-main_page-0010](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/31a59ea3-ef28-40e3-892e-2385b3a82188)
-11. ![1-s2 0-S0010482523010314-main_page-0013](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/c4c22406-27bf-40c2-9554-28011c003d21)
-12. ![1-s2 0-S0010482523010314-main_page-0014](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/78d67da5-868f-41b4-a51d-74576d875d2c)
-13. ![1-s2 0-S0010482523010314-main_page-0015](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/6401726a-440a-429d-9ac4-141a0d7ce503)
-14. ![1-s2 0-S0010482523010314-main_page-0016](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/be82eaff-3c50-4189-ab8c-23fd74432d27)
-
-![1-s2 0-S0010482523010314-main_page-0012](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/cdb8ea07-8c10-4d47-a3d2-82fd7a926274)
 ![1-s2 0-S0010482523010314-main_page-0011](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/16f42f24-47ce-4675-b0f1-0acb2a5fb498)
+![1-s2 0-S0010482523010314-main_page-0012](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/cdb8ea07-8c10-4d47-a3d2-82fd7a926274)
+
+
+12. ![1-s2 0-S0010482523010314-main_page-0013](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/c4c22406-27bf-40c2-9554-28011c003d21)
+13. ![1-s2 0-S0010482523010314-main_page-0014](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/78d67da5-868f-41b4-a51d-74576d875d2c)
+14. ![1-s2 0-S0010482523010314-main_page-0015](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/6401726a-440a-429d-9ac4-141a0d7ce503)
+15. ![1-s2 0-S0010482523010314-main_page-0016](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/be82eaff-3c50-4189-ab8c-23fd74432d27)
