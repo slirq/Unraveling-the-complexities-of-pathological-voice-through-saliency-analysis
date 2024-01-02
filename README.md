@@ -1,18 +1,19 @@
-1. ![1-s2 0-S0010482523010314-main_page-0001](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/36a5409b-c92b-4440-ba4c-d685b8ca1d56)
-2. ![1-s2 0-S0010482523010314-main_page-0002](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/ea235992-8559-469a-9fc4-256216557ee7)
-3. ![1-s2 0-S0010482523010314-main_page-0003](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/7e6b5207-1d95-47dc-afae-7f469b0ff256)
-4. ![1-s2 0-S0010482523010314-main_page-0004](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/6b855561-8aca-4bd9-877a-6ce0d90f2595)
-5. ![1-s2 0-S0010482523010314-main_page-0005](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/eb29e515-f9f7-4d10-af06-b236613014ef)
-6. ![1-s2 0-S0010482523010314-main_page-0006](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/9999811b-0518-4ae3-a870-3f99a128d06e)
-7. ![1-s2 0-S0010482523010314-main_page-0007](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/69e12f32-4aef-4cd0-a3da-5ef12333e5ae)
-8. ![1-s2 0-S0010482523010314-main_page-0008](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/b7058162-558c-4147-ac8d-d84c78b71ab5)
-9. ![1-s2 0-S0010482523010314-main_page-0009](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/578c3570-8dd7-4c26-b593-ebe142111e54)
-10. ![1-s2 0-S0010482523010314-main_page-0010](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/31a59ea3-ef28-40e3-892e-2385b3a82188)
-![1-s2 0-S0010482523010314-main_page-0011](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/16f42f24-47ce-4675-b0f1-0acb2a5fb498)
-![1-s2 0-S0010482523010314-main_page-0012](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/cdb8ea07-8c10-4d47-a3d2-82fd7a926274)
+# Unraveling the Complexities of Pathological Voice through Saliency Analysis
 
+## Overview
 
-12. ![1-s2 0-S0010482523010314-main_page-0013](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/c4c22406-27bf-40c2-9554-28011c003d21)
-13. ![1-s2 0-S0010482523010314-main_page-0014](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/78d67da5-868f-41b4-a51d-74576d875d2c)
-14. ![1-s2 0-S0010482523010314-main_page-0015](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/6401726a-440a-429d-9ac4-141a0d7ce503)
-15. ![1-s2 0-S0010482523010314-main_page-0016](https://github.com/slirq/Unraveling-the-complexities-of-pathological-voice-through-saliency-analysis/assets/43196991/be82eaff-3c50-4189-ab8c-23fd74432d27)
+This repository contains the code and supplementary materials for the paper titled "Unraveling the complexities of pathological voice through saliency analysis," authored by Abdullah Abdul Sattar Shaikh, M. S. Bhargavi, and Ganesh R. Naik. The paper was published in Computers in Biology and Medicine, Volume 166, in the year 2023.
+
+## Citation
+
+If you use this code or find it helpful in your research, please consider citing the following paper:
+
+**Unraveling the complexities of pathological voice through saliency analysis**
+
+- **Authors:** Abdullah Abdul Sattar Shaikh, M. S. Bhargavi, Ganesh R. Naik
+- **Journal:** Computers in Biology and Medicine
+- **Volume:** 166
+- **Pages:** 107566
+- **Year:** 2023
+
+[Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482523010314)
